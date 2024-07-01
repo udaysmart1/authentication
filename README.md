@@ -59,12 +59,6 @@ So, First, go ahead and signup on mLab. And follow the below steps.
 
 Now, you have got your database user. Replace the <dbuser> && <dbpassword> with your DB username and password. 
 
-```
-mongodb+srv://udaysmart:<password>@cluster0.qnudkim.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-```
-
-So, the Mongo Server Address(MongoURI) should look like this. Don't try to connect on my MongoURI. It's just a dummy username & password. :smile::smile:
 
 ```
 mongodb+srv://smart:Smn812345@cluster0.qnudkim.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
