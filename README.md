@@ -63,7 +63,6 @@ Now, you have got your database user. Replace the <dbuser> && <dbpassword> with 
 mongodb+srv://smart:Smn812345@cluster0.qnudkim.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 ```
-> Now, you have the mongoURI you are ready to connect your **user-auth** app to the database. Please follow the below steps. 
 
 -
 #### How to Test the application? 
