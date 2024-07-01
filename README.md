@@ -3,13 +3,7 @@
 implementation of  Authentication API in Node using JWT, express, and MongoDB. 
 
 
-### 1. Prerequisites
-
-You should have prior knowledge of `javascript basics`, `nodejs`. Knowledge of ES6 syntax is a plus. And  **nodejs** should be installed on your system. 
-
-----
-
-### 2. Packages Required
+### 1. Packages Required
 
 
 You will be needing these following 'npm' packages. 
@@ -31,7 +25,11 @@ You will be needing these following 'npm' packages.
 6.**express**
 
 
+ ### 2. Pre requirments
 
+You should have prior knowledge of `javascript basics`, `nodejs`. Knowledge of ES6 syntax is a plus. And  **nodejs** should be installed on your system. 
+
+----
 ----
 
 ### 3. Setup MongoDB Database
